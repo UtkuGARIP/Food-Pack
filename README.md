@@ -1,10 +1,10 @@
-Food-Pack
+Yiyecek Paketi
 
 
-This is a mod for **The Long Dark** by Hinterland Studio, Inc.
+Bu mod, **The Long Dark** için ek özellik sağlar. (Hinterland Studio, Inc.)
 
 
-![Food Items](Images/showcase-all.jpg)
+![Yiyecek Paketi](Images/showcase-all.jpg)
 
 
-Please see the [wiki](https://github.com/WulfMarius/Food-Pack/wiki) for details.
+Lütfen [wiki](https://github.com/WulfMarius/Food-Pack/wiki) sayfasını inceleyiniz.
